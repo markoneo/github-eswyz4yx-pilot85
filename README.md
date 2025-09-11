@@ -66,7 +66,7 @@ A comprehensive web-based transportation scheduling and management system design
    ```
 
 3. **Set up environment variables**
-   Create a `.env` file in the root directory:
+   Create a `.env` file in the `client/` directory:
    ```env
    # Supabase Configuration
    VITE_SUPABASE_URL=your_supabase_project_url
