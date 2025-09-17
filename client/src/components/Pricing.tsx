@@ -53,13 +53,13 @@ const plans = [
     id: 'twoYear',
     name: '2 Years',
     icon: Plane,
-    price: '139',
+    price: '290',
     period: '2 years',
     color: 'from-purple-500 to-purple-600',
     borderColor: 'border-purple-200',
     bgColor: 'bg-purple-50',
     textColor: 'text-purple-600',
-    savings: 'Save 41%',
+    savings: 'Save 36%',
     features: [
       'Everything in Yearly',
       'Dedicated account manager',
@@ -69,7 +69,7 @@ const plans = [
       'Training sessions',
       '30-day free trial'
     ],
-    stripeLink: 'https://buy.stripe.com/bIY7vO4mf6ybcKsaFe'
+    stripeLink: 'https://buy.stripe.com/6oU5kF1Ov8ei3AS4UhfjG1i'
   }
 ];
 
