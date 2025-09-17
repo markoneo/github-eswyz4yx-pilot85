@@ -63,7 +63,6 @@ const plans = [
       'Everything in Yearly',
       'Dedicated account manager',
       'Custom feature requests',
-      'White-label options',
       'Training sessions',
       '30-day free trial'
     ],
