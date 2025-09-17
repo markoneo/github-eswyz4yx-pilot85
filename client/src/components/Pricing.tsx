@@ -30,14 +30,14 @@ const plans = [
     id: 'yearly',
     name: 'Yearly',
     icon: Car,
-    price: '79',
+    price: '159',
     period: 'year',
     color: 'from-green-500 to-green-600',
     borderColor: 'border-green-200',
     bgColor: 'bg-green-50',
     textColor: 'text-green-600',
     popular: true,
-    savings: 'Save 33%',
+    savings: 'Save 30%',
     features: [
       'Everything in Monthly',
       'Priority support',
@@ -47,7 +47,7 @@ const plans = [
       'Multi-language support',
       '30-day free trial'
     ],
-    stripeLink: 'https://buy.stripe.com/fZedUc5qj2hV9yg00z'
+    stripeLink: 'https://buy.stripe.com/6oUdRbgJp1PU9Zg0E1fjG1g'
   },
   {
     id: 'twoYear',
