@@ -9,7 +9,7 @@ const plans = [
     id: 'monthly',
     name: 'Monthly',
     icon: Bike,
-    price: '9.90',
+    price: '19.00',
     period: 'month',
     color: 'from-indigo-500 to-indigo-600',
     borderColor: 'border-indigo-200',
@@ -24,7 +24,7 @@ const plans = [
       'Email support',
       '30-day free trial'
     ],
-    stripeLink: 'https://buy.stripe.com/3cs2bu8Cv1dR7q8fZw'
+    stripeLink: 'https://buy.stripe.com/4gM8wR64L0LQ2wOgCZfjG1h'
   },
   {
     id: 'yearly',
