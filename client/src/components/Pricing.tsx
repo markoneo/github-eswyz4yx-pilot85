@@ -42,7 +42,6 @@ const plans = [
       'Everything in Monthly',
       'Priority support',
       'Advanced analytics',
-      'Custom integrations',
       'Data export tools',
       'Multi-language support',
       '30-day free trial'
