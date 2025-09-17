@@ -65,7 +65,6 @@ const plans = [
       'Dedicated account manager',
       'Custom feature requests',
       'White-label options',
-      'API access',
       'Training sessions',
       '30-day free trial'
     ],
